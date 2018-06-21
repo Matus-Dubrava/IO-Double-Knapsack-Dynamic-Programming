@@ -1,3 +1,5 @@
+// PROBLEM: binary knapsack but we have two knapsacks instead of just one
+
 const sum = (x, y) => x + y;
 const sumArray = arr => arr.reduce(sum, 0);
 
